@@ -51,6 +51,6 @@ public class ThirdPersonCam : MonoBehaviour
 
 
         Vector3 offset = Vector3.up * height * 0.5f;
-        transform.LookAt(transform.position + offset);
+        transform.LookAt(rig.position + offset);
     }
 }
