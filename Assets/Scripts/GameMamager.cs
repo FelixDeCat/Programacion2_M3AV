@@ -15,7 +15,7 @@ public class GameMamager : MonoBehaviour
 
     public void AddEneemy(Enemy e)
     {
-        //agrego enemigo 2
+        //agrego enemigo 3
     }
 
 
